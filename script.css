@@ -1,0 +1,191 @@
+
+
+.banner{
+
+   padding-bottom: 50px;
+   margin-bottom: 20px;
+   height:615px;
+   text-align:center;
+   color:#8f8f8;
+   background:url(background.jpeg) no-repeat center;
+   background-size:cover;
+}
+#banner_content1{
+ 
+margin-top:4%;
+margin-left:27%;
+padding-top:1%;
+padding-bottom:1%;
+overflow:hidden;
+background-color:rgba(0,0,0,0);
+max-width:520px;
+
+}
+
+#banner_content{
+	 position:relative;
+	 margin-top:6%;
+	 margin-left:27%;
+    padding-top:6%;
+    padding-bottom:6%;
+    overflow:hidden;
+    border-radius: 40px;
+    margin-bottom:12%;
+    background-color:rgba(0,0,0,0.5);
+    max-width:520px;
+
+}
+.dropbtn {
+		float:left;
+    background-color: black;
+    color: white;
+    padding-top: 7px;
+    padding-bottom:7px;
+    padding-left:70px;
+      padding-right:70px;
+    font-size: 16px;
+    border: none;
+    margin-left:0px;
+    cursor: pointer;
+}
+.main_search{
+
+min-width:170px;
+min-height:26px;
+}
+.pp{
+   min-width : 300px;
+   margin-left:50px;
+
+}
+.pp1{
+   min-width:400px;
+   min-height:75px;
+}
+.pp2{
+   width:200px;
+   margin-left:38px;
+  
+}
+.pp3{
+   margin-left:120px;
+   min-height:30px;
+}
+.pp4{
+   margin-left:10px;
+}
+.pp5{
+   min-width:120px;
+   min-height:50px;
+}
+.pp6{
+   margin-left:80px;
+}
+.pp7{
+   margin-left:100px;
+}
+
+.click-nav ul li {position:relative;  
+list-style:none;cursor:pointer;}
+.click-nav ul li ul {position:absolute;left:0;right:0;}
+.click-nav img {position:absolute;top:0px;left:0px;}
+.click-nav ul li a {transition:background-color 0.2s ease-in-out;-webkit-transition:background-color 0.2s ease-in-out;
+-moz-transition:background-color 0.2s ease-in-out;display:block;padding:8px 10px 8px 40px;background:#FFF;color:#333;text-decoration:none;}
+
+/* Fallbacks */
+.click-nav .no-js ul {display:none;
+                      position: absolute;}
+.click-nav .no-js:hover ul {display:block;}
+
+
+.panel1{
+  min-width:75px;
+   min-height:75px;
+
+}
+.contain{
+   background-color: #8cf610;
+}
+.modal-title{
+background-color: #83F52C;
+}
+.dropdown {
+	
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+		float:left;
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 300px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 6px 6px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+
+footer{
+	padding:10px 0;
+	background-color: #101010;
+	color:#9d9d9d;
+	bottom:0;
+	width:100%;
+}#prashu{
+	float:right;
+	padding-top:0px;
+}
+.main_cont{
+  
+
+
+}
+.search_padding{
+    margin-top: 60px;
+     
+  min-height: 40px;
+}
+.panel-body{
+
+  min-height: 200px;
+}
+
+.contact{
+
+  min-width: 10px;
+}
+.form-control{
+ 
+  min-height: 50px;
+}
+#message{
+
+  min-height: 120px;
+}
+.social{margin-top: 0px;
+        margin-left: 800px;}
+   .facebook{
+    margin-left: 800px;
+   }
+   .plo{
+   width: 160px;
+   }
+
+.singlepanel{
+  height: 200px;
+  border-style: solid;;
+}
